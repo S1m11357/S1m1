@@ -1,0 +1,3 @@
+﻿  Pointeri.cpp
+C:\Users\Simon\Desktop\Programiranje u C++\Cas 11 pointeri\Pointeri.cpp(16,23): warning C4305:  '=': truncation from 'double' to 'float'
+  Cas 11 pointeri.vcxproj -> C:\Users\Simon\Desktop\Programiranje u C++\Cas 11 pointeri\Debug\Cas 11 pointeri.exe
